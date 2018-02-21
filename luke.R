@@ -28,7 +28,7 @@ library(combinat)
 ### 15. The person who travels by train has a neighbor that drinks decaf.
 
 # Problem:
-### Who ons the fish?  (Not Nigel)
+### Who owns the fish?  (Not Nigel)
 
 # Solution
 # 1. Inventory entities/attributes
